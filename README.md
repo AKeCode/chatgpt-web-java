@@ -1,8 +1,6 @@
 # ChatGPT Web — Java后端 微信
 
 >  声明：此项目需授权 如需授权联系
->
-> <img src="https://our-space.oss-cn-shanghai.aliyuncs.com/akeBlog/5051684141471_.pic.jpg" alt="微信" style="zoom: 50%;" />
 
 演示：https://ai.we-universe.cn
 
@@ -57,3 +55,5 @@
 ## 购买
 
 此项目需授权
+
+<img src="https://our-space.oss-cn-shanghai.aliyuncs.com/akeBlog/5051684141471_.pic.jpg" alt="微信" style="zoom: 50%;" />

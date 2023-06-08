@@ -34,15 +34,21 @@
 
 ## 预览
 
-![演示：https://ai.we-universe.cn](https://github.com/AKeCode/chatgpt-web-java/blob/main/%E6%88%AA%E5%B1%8F2023-06-08%2016.44.00.png)
+![演示：https://ai.we-universe.cn](https://github.com/AKeCode/chatgpt-web-java/blob/main/doc/%E6%88%AA%E5%B1%8F2023-06-08%2016.43.41.png)
 
-![](https://github.com/AKeCode/chatgpt-web-java/blob/main/%E6%88%AA%E5%B1%8F2023-06-08%2016.43.57.png)
+![演示：https://ai.we-universe.cn](https://github.com/AKeCode/chatgpt-web-java/blob/main/doc/%E6%88%AA%E5%B1%8F2023-06-08%2016.43.52.png)
 
-![演示：https://ai.we-universe.cn](https://github.com/AKeCode/chatgpt-web-java/blob/main/%E6%88%AA%E5%B1%8F2023-06-08%2016.43.52.png)
+![演示：https://ai.we-universe.cn](https://github.com/AKeCode/chatgpt-web-java/blob/main/doc/%E6%88%AA%E5%B1%8F2023-06-08%2016.43.57.png)
 
-## 预览
+![演示：https://ai.we-universe.cn](https://github.com/AKeCode/chatgpt-web-java/blob/main/doc/%E6%88%AA%E5%B1%8F2023-06-08%2016.44.00.png)
 
-演示：https://ai.we-universe.cn
+
+
+## 后台
+
+![演示：https://ai.we-universe.cn](https://github.com/AKeCode/chatgpt-web-java/blob/main/doc/%E6%88%AA%E5%B1%8F2023-06-08%2016.47.21.png)
+
+![https://github.com/AKeCode/chatgpt-web-java/blob/main/doc/%E6%88%AA%E5%B1%8F2023-06-08%2016.47.51.png](https://github.com/AKeCode/chatgpt-web-java/blob/main/doc/%E6%88%AA%E5%B1%8F2023-06-08%2016.47.51.png)
 
 
 
